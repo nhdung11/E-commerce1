@@ -1,0 +1,6 @@
+.App{
+  background: transparent;
+  border: transparent;
+  color: var(--clr-primary-5);
+  cursor: pointer;
+}
